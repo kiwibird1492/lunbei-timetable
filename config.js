@@ -11,7 +11,7 @@ const CONFIG = {
     PASSWORD: 'password123',
 
     SCHOOL_NAME: '崙背國民中學',
-    SCHOOL_SUBTITLE: '國中部課表查詢系統',
+    SCHOOL_SUBTITLE: '115-1課表查詢系統',
 
     // 課表 PDF 中的實際節次時間
     PERIOD_TIMES: [
